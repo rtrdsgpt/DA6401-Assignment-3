@@ -481,7 +481,7 @@ class Transformer(nn.Module):
     """
 
     # Google Drive file ID for the pre-trained best checkpoint.
-    _GDRIVE_CHECKPOINT_ID = "1FmnxUcTW6PrlsHlCWEBvOb9EY8NmDigu"
+    _GDRIVE_CHECKPOINT_ID = "19rytjRUPCbpS69eZrwDAWHSdm_UgFV6i"
 
     def __init__(
         self,
