@@ -8,6 +8,8 @@
 
 ---
 
+## Github Link: https://github.com/rtrdsgpt/DA6401-Assignment-3
+
 ## W&B Report
 
 [View Full Experiment Report on Weights & Biases]([https://api.wandb.ai/links/ma25m005-iit-madras/neylhr17])
