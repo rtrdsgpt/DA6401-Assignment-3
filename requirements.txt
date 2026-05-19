@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+scikit-learn
+wandb
+datasets
+spacy
+tqdm
+torchtext
+evaluate
+gdown
